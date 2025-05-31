@@ -42,7 +42,6 @@ Chaque niveau est défini par un fichier `.txt` et sélectionnable depuis l’é
 ## 🚀 Lancement
 
 Téléchargez simplement le fichier `Raccooking.jar` et double-cliquez pour lancer le jeu.  
-Aucune installation nécessaire.
 
 ---
 
@@ -100,7 +99,6 @@ Each level is defined by a `.txt` file and selectable from the start screen.
 ## 🚀 Launch
 
 Simply download the `Raccooking.jar` file and double-click it to start the game.  
-No installation required.
 
 ---
 
