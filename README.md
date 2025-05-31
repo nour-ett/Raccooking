@@ -45,6 +45,13 @@ Téléchargez simplement le fichier `Raccooking.jar` et double-cliquez pour lanc
 
 ---
 
+## 📄 Rapport détaillé
+
+Un rapport complet en français est inclus dans le dépôt : `Rapport_Raccooking.pdf` .
+Il décrit l’analyse, la conception, les choix techniques et toutes les fonctionnalités du projet.
+
+---
+
 ## 👥 Équipe
 
 Projet réalisé par :
@@ -99,6 +106,13 @@ Each level is defined by a `.txt` file and selectable from the start screen.
 ## 🚀 Launch
 
 Simply download the `Raccooking.jar` file and double-click it to start the game.  
+
+---
+
+## 📄 Detailed Report
+
+A complete report in French is included in the repository : `Rapport_Raccooking.pdf` .
+It covers the analysis, design, technical choices, and all project features.
 
 ---
 
